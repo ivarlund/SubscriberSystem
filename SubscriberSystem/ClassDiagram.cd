@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SubscriberSystem.Controllers.SubscribersController">
+    <Position X="3.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAABIAAAAAAAAACAIAQgAAAAA=</HashCode>
+      <FileName>Controllers\SubscribersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubscriberSystem.Models.Subscriber">
+    <Position X="5.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAIAAAAAAAAAAgAAAABAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Subscriber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubscriberSystem.Models.SubscriberDBContext">
+    <Position X="1" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\SubscriberDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
